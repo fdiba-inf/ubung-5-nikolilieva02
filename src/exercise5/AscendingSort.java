@@ -33,4 +33,4 @@ public class AscendingSort {
         String numbersAsString = Arrays.toString(numbers);
         System.out.println("Sorted numbers: " + numbersAsString);
     }
-}]
+}
